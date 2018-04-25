@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Initial Project Setup kotlin(MVP)</string>
+    <string name="loading">Loading...</string>
+
+</resources>
